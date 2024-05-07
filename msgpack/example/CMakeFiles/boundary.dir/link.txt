@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/boundary.dir/boundary.c.o -o boundary  -Wl,-rpath,/home/lorph/extensions/msgpack/msgpack-c-6.0.1 ../libmsgpack-c.so.2.0.0 

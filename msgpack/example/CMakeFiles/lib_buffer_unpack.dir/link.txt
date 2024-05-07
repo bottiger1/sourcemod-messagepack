@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/lib_buffer_unpack.dir/lib_buffer_unpack.c.o -o lib_buffer_unpack  -Wl,-rpath,/home/lorph/extensions/msgpack/msgpack-c-6.0.1 ../libmsgpack-c.so.2.0.0 
