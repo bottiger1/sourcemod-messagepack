@@ -1,3 +1,7 @@
+## NOTICE
+
+This project has been superceeded by https://github.com/skial-com/async2
+
 How to use
 
 1. Download the binary by clicking Releases on the right on github.
